@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gtrevolution",
+  "name": "GT Revolution",
+  "description": " An addon for GregTech Community Edition. The goal here is adding end game content based on GT++ for GTNH.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DisasterMoo"],
+  "credits": "The dev team of GTCE, GT5U, GTNH, GT++ and GregoriusT for this great mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["gregtech"]
+}
+]

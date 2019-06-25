@@ -1,0 +1,74 @@
+metaitem.shape.extruder.smallgear.name=Extruder Shape (Small Gear)
+metaitem.shape.extruder.rotor.name=Extruder Shape (Rotor)
+
+material.talonite=Talonite
+material.stellite=Stellite
+material.tantalloy60=Tantalloy-60
+material.tantalloy61=Tantalloy-61
+material.staballoy=Staballoy
+material.inconel690=Inconel-690
+material.inconel792=Inconel-792
+material.potin=Potin
+material.eglin_base=Eglin Base
+material.eglin_steel=Eglin Steel
+material.draconium=Draconium
+material.desh=Desh
+material.superconductor_lv=LV Superconductor
+material.superconductor_mv=MV Superconductor
+material.superconductor_hv=HV Superconductor
+material.superconductor_ev=EV Superconductor
+material.superconductor_iv=IV Superconductor
+material.superconductor_luv=LuV Superconductor
+material.superconductor_zpm=ZPM Superconductor
+
+gtrevolution.multiblock.industrial_machine.parallel=Max parallel operations: %s
+gtrevolution.multiblock.industrial_machine.efficient.discount=EU Discount: %s%%
+gtrevolution.multiblock.industrial_fisher.speed=Fish per operation: %s
+
+tile.gr_multiblock_casing.maceration_casing.name=Maceration Casing
+tile.gr_multiblock_casing.thermal_casing.name=Thermal Casing
+tile.gr_multiblock_casing.washplant_casing.name=Washing plant Casing
+tile.gr_multiblock_casing.chemical_casing.name=Chemically Inert Casing
+tile.gr_multiblock_casing.fisher_casing.name=Fisher Casing
+tile.gr_multiblock_casing.electrolyzer_casing.name=Electrolyzer Casing
+tile.gr_multiblock_casing.centrifuge_casing.name=Centrifuge Casing
+tile.gr_multiblock_casing.sieve_casing.name=Sieve Casing
+tile.gr_multiblock_casing.sieve_grate.name=Sieve Grate
+tile.gr_multiblock_casing.wire_casing.name=Wire Casing
+
+gtrevolution.machine.disassembler.lv.name=Basic Disassembler
+gtrevolution.machine.disassembler.mv.name=Advanced Disassembler
+gtrevolution.machine.disassembler.hv.name=Advanced Disassembler II
+gtrevolution.machine.disassembler.ev.name=Advanced Disassembler III
+gtrevolution.machine.disassembler.iv.name=Advanced Disassembler IV
+gtrevolution.machine.disassembler.luv.name=Epic Disassembler
+gtrevolution.machine.disassembler.zpm.name=Epic Disassembler II
+gtrevolution.machine.disassembler.uv.name=Ultimate Disassembler
+
+gtrevolution.machine.industrial_macerator.name=Industrial Macerator
+gtrevolution.machine.industrial_orewasher.name=Industrial Ore Washer
+gtrevolution.machine.industrial_thermalcentrifuge.name=Industrial Thermal Centrifuge
+gtrevolution.machine.industrial_chemicalreactor.name=Industrial Chemical Reactor
+gtrevolution.machine.industrial_fisher.name=Industrial Fisher
+gtrevolution.machine.industrial_electrolyzer.name=Industrial Electrolyzer
+gtrevolution.machine.industrial_centrifuge.name=Industrial Centrifuge
+gtrevolution.machine.industrial_wiremill.name=Industrial Wiremill
+gtrevolution.machine.industrial_sifter.name=Industrial Sifter
+gtrevolution.machine.oil_rig.name=Oil Rig
+
+
+gtrevolution.machine.improved_blast_furnace.name=Electric Blast Furnace
+
+recipemap.disassembler.iv.name=Disassembler
+recipemap.industrialfisher.name=Industrial Fisher
+
+gregtech.multiblock.industrial_macerator.description=The Industrial Macerator works like the single block machine except all byproducts are 100%% chance and each voltage tier works on 4 parallel operations.
+gregtech.multiblock.industrial_orewasher.description=The Industrial Ore Washer works like the single block machine except each voltage tier works on 4 parallel operations.
+gregtech.multiblock.industrial_thermalcentrifuge.description=The Industrial Thermal Centrifuge works like the single block machine except each voltage tier works on 4 parallel operations.
+gregtech.multiblock.industrial_fisher.description=The Industrial Fisher is a multiblock that keeps breeding fish. Place a circuit configuration to select the output.
+gregtech.multiblock.industrial_centrifuge.description=The Industrial Centrifuge works like the single block machine except it works faster with a discount in EU costs.
+gregtech.multiblock.industrial_electrolyzer.description=The Industrial Electrolyzer works like the single block machine except it works faster with a discount in EU costs.
+gregtech.multiblock.industrial_chemicalreactor.description=The Industrial Chemical Reactor works like the single block machine except it works faster with a discount in EU costs.
+gregtech.multiblock.industrial_wiremill.description=The Industrial Wiremill works like the single block machine except each voltage tier works on 4 parallel operations.
+gregtech.multiblock.industrial_sifter.description=The Industrial Sifter works like the single block machine except all gem outputs are 100%% chance and each voltage tier works on 4 parallel operations.
+gregtech.multiblock.oil_rig.description=The Oil Rig pumps oil/gas from underground chunk sources. Each chunk has 50%% chance of containing oil/gas from 250mB to 1000mB / operation. Consumes lubricant.
